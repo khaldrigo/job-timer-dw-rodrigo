@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397063974340",
+    "project_id": "job-timer-dw-rodrigo",
+    "storage_bucket": "job-timer-dw-rodrigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397063974340:android:9066d588e268179552c891",
+        "android_client_info": {
+          "package_name": "com.example.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397063974340-3g9vk386ffrki9bjaampphibqhcv4iug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wTLo9sF_ZDgA64G56hOiHvC4Ejc1has"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397063974340-3g9vk386ffrki9bjaampphibqhcv4iug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
